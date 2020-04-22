@@ -7,8 +7,3 @@ https://devpost.com/software/speak-code
 
 Demo Video Link: https://www.youtube.com/watch?v=TSN7KAP6CpI
 
-
-<details>
-	<summary>General</summary><p>
-  <h5>[WP Runbook](www.google.com)</h5></p>    
-</details>
